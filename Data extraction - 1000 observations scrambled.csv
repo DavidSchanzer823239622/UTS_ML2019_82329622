@@ -1,0 +1,1001 @@
+﻿CountryOfBirth,MainLanguage,IndigenousStatus,RemotenessArea,RelativeSocioEconomicDisadvantageDecile,HistoryPreviousCancer,HistoryFamilyCancer,TotalEpisodes,HasBeenDNA,HadAssessment,HadNeedleBiopsy,HadTechRecall,AgeAtMostRecentEpisode,DistanceKms,MonthMostRecentScreening,DayOfWeekMostRecentScreening,HourOfDayMostRecentScreening,VenueTypeMostRecentScreening,FilmsTakenMostRecentScreening,DaysFromAttendanceToResultSent,LapsedRegular3rdMostRecentEpisode,LapsedRegular2ndMostRecentEpisode,LapsedRegularMostRecentEpisode
+AFGHANISTAN,Arabic,Aboriginal,Inner Regional Australia,0,0,0,2,0,0,0,0,41,0,1,1,7,Fixed,2,0,Lapsed,Lapsed,Lapsed
+ARGENTINA,Arabic,Aboriginal,Inner Regional Australia,1,0,0,2,0,0,0,0,43,0,1,1,7,Fixed,3,0,Lapsed,Lapsed,Lapsed
+ARGENTINA,Arabic,Aboriginal,Inner Regional Australia,1,0,0,2,0,0,0,0,44,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Aboriginal,Inner Regional Australia,1,0,0,2,0,0,0,0,44,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Aboriginal,Inner Regional Australia,1,0,0,2,0,0,0,0,45,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Aboriginal,Inner Regional Australia,1,0,0,2,0,0,0,0,47,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Aboriginal,Inner Regional Australia,1,0,0,2,0,0,0,0,47,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Aboriginal,Inner Regional Australia,1,0,0,2,0,0,0,0,47,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Aboriginal,Inner Regional Australia,1,0,0,2,0,0,0,0,48,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Inner Regional Australia,1,0,0,2,0,0,0,0,49,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Inner Regional Australia,1,0,0,2,0,0,0,0,49,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,1,0,0,2,0,0,0,0,49,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,1,0,0,2,0,0,0,0,49,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,49,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,50,0,1,1,7,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,50,0,1,1,8,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,50,0,1,1,8,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,50,0,1,1,8,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,51,0,1,2,8,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Arabic,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,51,0,1,2,8,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,51,0,1,2,8,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,0,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,1,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,1,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,1,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,1,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,1,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,1,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,52,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,53,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Cantonese,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Croatian,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Croatian,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Croatian,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Croatian,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Croatian,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,Croatian,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,0,1,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,1,2,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,1,2,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,2,0,0,2,0,0,0,0,54,1,2,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,2,0,0,0,0,54,1,2,2,8,Fixed,4,2,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,2,0,0,0,0,54,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,2,0,0,0,0,54,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,2,0,0,0,0,54,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,8,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,55,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,56,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,3,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,3,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,57,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,3,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,1,2,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,1,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,1,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,1,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,1,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,1,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,1,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,1,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Lapsed,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,4,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Lapsed,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,58,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,4,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,9,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,2,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,59,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,60,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,4,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,5,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,5,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,5,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,5,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,5,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,5,0,0,5,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,2,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,3,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Lapsed
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,61,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,5,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,10,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,62,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,4,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,63,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,5,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,3,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,3,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,64,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Outer Regional Australia,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,5,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,11,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,6,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,65,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,6,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,6,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,4,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,66,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,6,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,67,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,7,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Inner Regional Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,5,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,8,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,7,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,4,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,7,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,68,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,7,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Inner Regional Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRALIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+AUSTRIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+BELGIUM,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CAMBODIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CANADA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHILE,English Only,Non-indigenous,Inner Regional Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHILE,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHILE,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHILE,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Fixed,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CHINA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,6,8,5,12,Mobile,4,8,Regular,Regular,Regular
+COLOMBIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+COLOMBIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+COLOMBIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CROATIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CROATIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CROATIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CROATIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CROATIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,69,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CROATIA,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,12,Mobile,4,8,Regular,Regular,Regular
+CZECH REPUBLIC,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+DENMARK,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+DENMARK,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+DENMARK,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+EGYPT,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+EGYPT,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+EGYPT,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+EGYPT,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+EGYPT,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,8,5,13,Mobile,4,8,Regular,Regular,Regular
+EL SALVADOR,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FIJI,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FIJI,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FIJI,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FIJI,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FIJI,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FIJI,English Only,Non-indigenous,Major Cities of Australia,9,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FRANCE,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FRANCE,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+FRANCE,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GERMANY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GERMANY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GERMANY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GERMANY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GERMANY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GERMANY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GERMANY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GREECE,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GREECE,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GREECE,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+GREECE,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HONG KONG,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HONG KONG,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HONG KONG,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HONG KONG,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HONG KONG,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HONG KONG,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HONG KONG,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HONG KONG,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,7,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HUNGARY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,8,9,5,13,Mobile,4,8,Regular,Regular,Regular
+HUNGARY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,8,9,5,13,Mobile,4,8,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,8,0,0,0,0,70,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,70,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,70,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,70,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Very Remote Australia,10,0,0,9,0,0,0,0,71,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,71,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,71,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,71,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,71,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,71,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,71,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,71,8,9,5,13,Mobile,4,9,Regular,Regular,Regular
+INDIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,0,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+INDONESIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+IRAQ,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+IRAQ,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+IRAQ,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+IRELAND,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+IRELAND,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+IRELAND,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+IRELAND,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+IRELAND,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+ITALY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+ITALY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+ITALY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+ITALY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+ITALY,English Only,Non-indigenous,Inner Regional Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+ITALY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+ITALY,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+JAPAN,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+KENYA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,8,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LAO PEOPLE'S DEMOCRATIC REPUBLIC,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LATVIA,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Inner Regional Australia,10,0,0,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,Mobile,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,,4,9,Regular,Regular,Regular
+LEBANON,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,,4,9,Regular,Regular,Regular
+"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,,4,9,Regular,Regular,Regular
+"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,,4,9,Regular,Regular,Regular
+MALAYSIA,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,,4,9,Regular,Regular,Regular
+MALAYSIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,,4,9,Regular,Regular,Regular
+MALAYSIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,0,1,0,0,71,9,9,5,14,,4,9,Regular,Regular,Regular
+MALAYSIA,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,1,1,0,0,71,9,9,5,14,,4,9,,Regular,Regular
+MALAYSIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,9,,Regular,Regular
+MALAYSIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,9,,Regular,Regular
+MALAYSIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,9,,Regular,Regular
+MALAYSIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,9,,Regular,Regular
+MALTA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,9,,Regular,Regular
+MALTA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,9,,Regular,Regular
+MALTA,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,10,,Regular,Regular
+MALTA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,10,,Regular,Regular
+MALTA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,10,,Regular,Regular
+MALTA,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,1,1,0,0,72,9,10,5,14,,4,10,,Regular,Regular
+MALTA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+MALTA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+MALTA,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+MAURITIUS,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+MAURITIUS,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+MONTENEGRO,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+MYANMAR,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NETHERLANDS,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NETHERLANDS,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NETHERLANDS,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NETHERLANDS,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NETHERLANDS,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NETHERLANDS,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Outer Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Outer Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,1,1,0,0,72,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,10,10,5,14,,4,10,,Regular,Regular
+NEW ZEALAND,English Only,Non-indigenous,Outer Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PERU,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PERU,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Major Cities of Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Outer Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,5,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,10,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,11,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,9,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Outer Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Outer Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+PHILIPPINES,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+POLAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+POLAND,English Only,Non-indigenous,Outer Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,14,,4,11,,Regular,Regular
+POLAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,15,,4,11,,Regular,Regular
+POLAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,12,10,6,15,,4,11,,Regular,Regular
+POLAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+POLAND,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+POLAND,English Only,Non-indigenous,Outer Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+PORTUGAL,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+SAMOA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+SAMOA,English Only,Non-indigenous,Outer Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+SAMOA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+SERBIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+SERBIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+SINGAPORE,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,13,10,6,15,,4,11,,Regular,Regular
+SINGAPORE,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,14,10,6,15,,4,11,,Regular,Regular
+SLOVENIA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,14,10,6,15,,4,11,,Regular,Regular
+SOUTH AFRICA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,14,10,6,15,,4,11,,Regular,Regular
+SOUTH AFRICA,English Only,Non-indigenous,Major Cities of Australia,10,0,1,10,1,1,0,0,73,14,10,6,15,,4,11,,Regular,Regular
+SOUTH AFRICA,English Only,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,14,10,6,15,,4,11,,Regular,Regular
+SOUTH AFRICA,English Only,Non-indigenous,Major Cities of Australia,10,0,1,10,1,1,0,0,73,14,10,6,15,,4,11,,Regular,Regular
+SOUTH AFRICA,English Only,Non-indigenous,Outer Regional Australia,10,0,1,10,1,1,0,0,73,14,11,6,15,,4,11,,Regular,Regular
+SOUTH AFRICA,French,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,14,11,6,15,,4,11,,Regular,Regular
+SOUTH AFRICA,French,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,14,11,6,15,,4,11,,Regular,Regular
+SPAIN,German,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,73,14,11,6,15,,4,11,,Regular,Regular
+SPAIN,German,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,14,11,6,15,,4,11,,Regular,Regular
+SPAIN,German,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,14,11,6,15,,4,11,,Regular,Regular
+SPAIN,German,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,14,11,6,15,,4,11,,Regular,Regular
+SRI LANKA,Greek,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,14,11,6,15,,4,11,,Regular,Regular
+SRI LANKA,Greek,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,14,11,6,15,,4,11,,Regular,Regular
+SRI LANKA,Greek,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,15,11,6,15,,4,12,,Regular,Regular
+SRI LANKA,Greek,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,15,11,6,15,,4,12,,Regular,Regular
+SRI LANKA,Hindi,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,15,11,6,15,,4,12,,Regular,Regular
+SRI LANKA,Hindi,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,15,11,6,15,,4,12,,Regular,Regular
+SRI LANKA,Hindi,Non-indigenous,Major Cities of Australia,10,0,1,10,1,1,0,0,74,15,11,6,15,,5,12,,Regular,Regular
+SWEDEN,Hindi,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,15,11,6,15,,5,12,,,Regular
+SWITZERLAND,Hindi,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+SYRIAN ARAB REPUBLIC,Hindi,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+"TAIWAN, PROVINCE OF CHINA",Hindi,Non-indigenous,Inner Regional Australia,10,0,1,10,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+"TAIWAN, PROVINCE OF CHINA",Italian,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+"TAIWAN, PROVINCE OF CHINA",Italian,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+THAILAND,Italian,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+THAILAND,Italian,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+TIMOR-LESTE,Italian,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+TIMOR-LESTE,Korean,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+TONGA,Macedonian,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+TONGA,Maltese,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+TONGA,Maltese,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+TURKEY,Maltese,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+TURKEY,Maltese,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,16,11,6,15,,5,12,,,Regular
+TURKEY,Maltese,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,17,11,6,15,,5,12,,,Regular
+TURKEY,Maltese,Non-indigenous,Major Cities of Australia,10,0,1,11,1,1,0,0,74,17,11,6,15,,5,12,,,Regular
+TURKEY,Mandarin,Non-indigenous,Outer Regional Australia,10,0,1,11,1,1,0,0,74,17,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,17,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Outer Regional Australia,10,0,1,11,1,1,0,0,74,17,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,17,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Major Cities of Australia,10,0,1,11,1,1,0,0,74,18,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,18,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,18,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,18,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,18,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,74,18,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Major Cities of Australia,10,0,1,11,1,1,0,0,74,18,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Mandarin,Non-indigenous,Major Cities of Australia,10,0,1,11,1,1,0,0,75,18,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,11,1,1,0,0,75,19,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,11,1,1,0,0,75,19,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,75,19,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,75,19,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,75,19,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Outer Regional Australia,10,0,1,11,1,1,0,0,75,20,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Outer Regional Australia,10,0,1,11,1,1,0,0,75,20,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Outer Regional Australia,10,0,1,11,1,1,0,0,75,20,11,6,15,,5,12,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,75,20,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,75,20,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,75,20,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,11,1,1,0,0,75,20,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,11,1,1,0,0,75,21,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,75,21,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,11,1,1,0,0,75,21,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,0,0,75,21,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,0,0,75,21,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,0,0,75,21,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,0,0,75,21,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,0,0,75,22,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,0,0,75,22,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,76,22,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,76,22,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,76,22,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,76,22,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,76,23,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,76,23,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,76,23,11,6,15,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,76,23,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,76,23,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,76,23,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,77,23,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,77,23,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,77,24,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,77,24,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,77,24,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,77,24,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,77,24,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,77,25,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,77,25,11,6,16,,5,13,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,77,25,11,6,16,,5,14,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,78,25,11,6,16,,5,14,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,78,25,11,6,16,,5,14,,,Regular
+UNITED KINGDOM,Other (please specify),Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,78,25,11,6,16,,5,14,,,Regular
+UNITED KINGDOM,Serbian,Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,78,25,11,6,16,,5,14,,,Regular
+UNITED KINGDOM,Spanish,Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,78,26,11,6,16,,5,14,,,Regular
+UNITED KINGDOM,Spanish,Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,78,26,11,6,16,,5,14,,,Regular
+UNITED KINGDOM,Spanish,Non-indigenous,Major Cities of Australia,10,0,1,12,1,1,1,0,78,27,11,6,16,,5,14,,,Regular
+UNITED KINGDOM,Spanish,Non-indigenous,Inner Regional Australia,10,0,1,12,1,1,1,0,78,27,11,6,16,,6,14,,,Regular
+UNITED STATES,Spanish,Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,78,27,11,6,16,,6,14,,,Regular
+UNITED STATES,Spanish,Non-indigenous,Outer Regional Australia,10,0,1,13,1,1,1,0,78,28,11,6,16,,6,14,,,Regular
+Unknown,Spanish,Non-indigenous,Outer Regional Australia,10,0,1,13,1,1,1,0,78,28,11,6,16,,6,14,,,Regular
+Unknown,Spanish,Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,78,28,11,6,16,,6,15,,,Regular
+Unknown,Spanish,Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,79,29,11,6,16,,6,15,,,Regular
+Unknown,Spanish,Non-indigenous,Outer Regional Australia,10,0,1,13,1,1,1,0,79,29,11,6,16,,6,15,,,Regular
+Unknown,Spanish,Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,79,29,11,6,16,,6,15,,,Regular
+Unknown,Spanish,Non-indigenous,Outer Regional Australia,10,0,1,13,1,1,1,0,79,31,11,6,16,,6,15,,,Regular
+Unknown,Spanish,Non-indigenous,Outer Regional Australia,10,0,1,13,1,1,1,0,79,31,11,6,16,,6,16,,,Regular
+Unknown,Spanish,Non-indigenous,Major Cities of Australia,10,0,1,13,1,1,1,0,79,31,11,6,16,,6,16,,,Regular
+Unknown,Spanish,Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,79,31,11,6,16,,6,16,,,Regular
+Unknown,Spanish,Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,79,31,12,6,16,,6,16,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,79,32,12,6,16,,6,17,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,79,33,12,6,16,,6,17,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,79,33,12,6,16,,6,17,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,79,34,12,6,16,,6,17,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,80,35,12,7,16,,6,18,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,80,35,12,7,16,,6,18,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,80,36,12,7,16,,6,18,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,80,36,12,7,16,,6,18,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,80,37,12,7,16,,6,18,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,80,37,12,7,16,,6,19,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,13,1,1,1,0,80,37,12,7,16,,6,19,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,14,1,1,1,0,80,37,12,7,16,,6,19,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,14,1,1,1,0,80,38,12,7,16,,6,20,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Outer Regional Australia,10,0,1,14,1,1,1,0,80,38,12,7,16,,6,20,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,14,1,1,1,0,81,38,12,7,16,,6,20,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,14,1,1,1,0,81,41,12,7,16,,6,20,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Major Cities of Australia,10,0,1,14,1,1,1,0,81,41,12,7,16,,6,21,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,14,1,1,1,0,81,41,12,7,16,,6,21,,,Regular
+Unknown,Tagalog (Filipino),Non-indigenous,Inner Regional Australia,10,0,1,15,1,1,1,0,81,42,12,7,16,,6,21,,,Regular
+Unknown,Tamil,Non-indigenous,Inner Regional Australia,10,0,1,15,1,1,1,0,81,43,12,7,16,,7,21,,,Regular
+Unknown,Tamil,Non-indigenous,Major Cities of Australia,10,0,1,15,1,1,1,0,81,44,12,7,16,,7,22,,,Regular
+Unknown,Tamil,Non-indigenous,Major Cities of Australia,10,0,1,15,1,1,1,0,81,47,12,7,16,,7,22,,,Regular
+Unknown,Tamil,Non-indigenous,Inner Regional Australia,10,0,1,15,1,1,1,0,82,47,12,7,16,,7,23,,,Regular
+Unknown,Tamil,Non-indigenous,Inner Regional Australia,10,0,1,15,1,1,1,0,82,47,12,7,16,,7,23,,,Regular
+Unknown,Tamil,Non-indigenous,Outer Regional Australia,10,0,1,15,1,1,1,0,82,52,12,7,16,,7,23,,,Regular
+Unknown,Tamil,Non-indigenous,Inner Regional Australia,10,0,1,15,1,1,1,0,82,54,12,7,16,,8,24,,,Regular
+Unknown,Tamil,Non-indigenous,Major Cities of Australia,10,0,1,16,1,1,1,0,82,62,12,7,16,,8,24,,,Regular
+Unknown,Tamil,Non-indigenous,Inner Regional Australia,10,0,1,16,1,1,1,1,82,64,12,7,16,,8,25,,,Regular
+Unknown,Tamil,Non-indigenous,Inner Regional Australia,10,0,1,16,1,1,1,1,82,64,12,7,16,,8,25,,,Regular
+Unknown,Turkish,Non-indigenous,Inner Regional Australia,10,0,1,16,1,1,1,1,82,67,12,7,16,,8,26,,,Regular
+URUGUAY,Turkish,Non-indigenous,Outer Regional Australia,10,0,1,16,1,1,1,1,82,70,12,7,16,,8,27,,,Regular
+URUGUAY,Turkish,Non-indigenous,Inner Regional Australia,10,0,1,16,1,1,1,1,82,85,12,7,16,,8,27,,,Regular
+URUGUAY,Turkish,Non-indigenous,Inner Regional Australia,10,0,1,17,1,1,1,1,83,96,12,7,16,,8,27,,,Regular
+VIET NAM,Turkish,Non-indigenous,Inner Regional Australia,10,0,1,17,1,1,1,1,83,120,12,7,16,,8,28,,,Regular
+VIET NAM,Unknown,Non-indigenous,Inner Regional Australia,10,0,1,17,1,1,1,1,83,126,12,7,17,,8,29,,,Regular
+VIET NAM,Vietnamese,Non-indigenous,Major Cities of Australia,10,0,1,17,1,1,1,1,83,178,12,7,17,,8,29,,,Regular
+VIET NAM,Vietnamese,Non-indigenous,Inner Regional Australia,10,1,1,17,1,1,1,1,84,181,12,7,17,,8,29,,,Regular
+VIET NAM,Vietnamese,Non-indigenous,Inner Regional Australia,10,1,1,18,1,1,1,1,85,316,12,7,17,,8,30,,,Regular
+VIET NAM,Vietnamese,Non-indigenous,Outer Regional Australia,10,1,1,19,1,1,1,1,85,442,12,7,17,,8,32,,,Regular
+VIET NAM,Vietnamese,Non-indigenous,Inner Regional Australia,10,1,1,20,1,1,1,1,85,447,12,7,17,,8,34,,,Regular
+VIET NAM,Vietnamese,Non-indigenous,Inner Regional Australia,10,1,1,20,1,1,1,1,85,581,12,7,17,,9,35,,,Regular
+VIET NAM,Vietnamese,Non-indigenous,Inner Regional Australia,10,1,1,21,1,1,1,1,85,1178,12,7,17,,9,39,,,Regular
+VIET NAM,Vietnamese,Non-indigenous,Inner Regional Australia,10,1,1,22,1,1,1,1,85,1399,12,7,18,,9,42,,,Regular
+VIET NAM,Vietnamese,Not stated,Inner Regional Australia,10,1,1,23,1,1,1,1,88,2288,12,7,19,,17,96,,,Regular
